@@ -3,7 +3,6 @@
  */
 public class HelloWorld {
     public static void main(String[] args) {
-
-        System.out.println("Guten Tag Duc Hanh Nguyen\nWillkommen in der Veranschtaltung \"Strukturierte Programmierung\".");
+        System.out.println("Guten Tag Duc Hanh Nguyen\nWillkommen in der Veranstaltung \"Strukturierte Programmierung\".");
     }
 }
